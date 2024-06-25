@@ -1,2 +1,7 @@
 esta es la primer linea no sube por grafico
+<<<<<<< HEAD
 
+=======
+segundalinearemota
+terceralinearemota
+>>>>>>> 25d1d92cb1426583f0d286d075b1989c1317a4d1
