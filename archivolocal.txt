@@ -1,4 +1,4 @@
 esta es la primer linea no sube por grafico
-nueva2
-nueva3
-linea5
+nueva22
+nueva33
+linea4
