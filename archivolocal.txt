@@ -1,5 +1,3 @@
-esta es la primer linea no sube por grafico
-nueva22
-nueva33
-linea4
-ss
+Hola mundo
+Mi primer comentario
+linea creada en local(todas por que no habia escrito nada)
